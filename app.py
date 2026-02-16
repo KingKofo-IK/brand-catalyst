@@ -1,4 +1,4 @@
-pip install --upgrade pip
+pip install streamlit
 import streamlit as st
 import json
 import time
